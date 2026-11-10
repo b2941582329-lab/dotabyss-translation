@@ -1,0 +1,22 @@
+name: verify-translations
+
+# PR 检查：manifest 必须与文件内容一致，且所有文件哈希可复算。
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Manifest is up to date
+        run: python tools/build_manifest.py --root . --check
+
+      - name: Every hash matches
+        run: python tools/build_manifest.py --root . --verify
