@@ -1,5 +1,5 @@
 {
-    "hash": "5427e4430a85fa423be04dc90850ec5c",
+    "hash": "78695e8792ea2e9164a89ad259afccb4",
     "names": "58e5ae6d605e97263b1bd7ae29698951",
     "novels": {
         "evs_10200010101": "a6b029057bc445487f47cb109ceb113e",
@@ -1189,7 +1189,7 @@
         "mas_1001070402": "e68c018325d4c41941b4a850d0a52d84",
         "mas_1001070501": "9672b5f8150ed6d98f17b91da4da0d0e",
         "mas_1001070502": "80fb7b6640ebab40af4b3ab6abf31462",
-        "mas_1001070601": "5bb813bc3c3ad9c88cb5795ad820834c",
+        "mas_1001070601": "5de49c8eec72b98492d36e91dd1a648c",
         "mas_1001070701": "9dad25983368c6a7d4930f4bb6a54995",
         "mas_1001070801": "908a6d2fd8979c81f11a106781bb49f2",
         "mas_1001070901": "025180431cca5a4def38fd79a0dad67f",
@@ -1457,6 +1457,6 @@
         "Button_Party_On.png": "cde35d2315742af96a98969d77503217",
         "manifest.json": "16872b930fc87b08278be46ee48e618b"
     },
-    "static": "98b30244eec6e9c61ad96403d4dc5dee",
+    "static": "2c6ff225b196127ecb1cccf3e2d34f36",
     "ui_texts": "a117d0b5afc519a873eee021fa91c211"
 }
