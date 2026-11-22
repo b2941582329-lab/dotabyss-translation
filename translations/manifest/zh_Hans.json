@@ -1,5 +1,5 @@
 {
-    "hash": "0b6a820fab5b31dc664b45f5ed6ec44c",
+    "hash": "8f662c840eec008c77c01ed373103057",
     "names": "58e5ae6d605e97263b1bd7ae29698951",
     "novels": {
         "evs_10200010101": "a6b029057bc445487f47cb109ceb113e",
@@ -512,7 +512,7 @@
         "hmr_10200100022": "9df2c48c340468f0a8be80c8c28d7b26",
         "hmr_10200100023": "00d19ba18385003c89b5f6c3dbff7247",
         "hmr_10200100031": "07d58eb25e04c16c8df3cf75aeb8fa2a",
-        "hmr_10200100032": "9cbbb249a700edcef47c521225b1ce0c",
+        "hmr_10200100032": "bacb3b80ba8fd506c05be4aa985b88d4",
         "hmr_10200100033": "aa6232725e305da7255c1c2ffb71796a",
         "hmr_10210100011": "3a3a5b7a1f1da79fbe392d574fc95a46",
         "hmr_10210100012": "70bc3e7a15a78720a6a0ac87aa9c40bc",
@@ -1140,7 +1140,7 @@
         "mas_1001040701": "b1f6eb70c4f56714d96fe32c9f69675d",
         "mas_1001040702": "5f64751e3467af5ba4d403bf3107b0ab",
         "mas_1001040703": "c2cbcbe76b833918bf45ce0b9eece03f",
-        "mas_1001040801": "3ed6832ce4d1f48e9b954748b0a923cd",
+        "mas_1001040801": "4925708d25b652920a2fce3e7d5a4f8a",
         "mas_1001040901": "b011a982ec8831bc419e0923422d54a4",
         "mas_1001041001": "05d9d3ea8d79530b956ba3494815e6ef",
         "mas_1001041002": "2eb88a576c648c122726882785046b44",
@@ -1457,6 +1457,6 @@
         "Button_Party_On.png": "cde35d2315742af96a98969d77503217",
         "manifest.json": "16872b930fc87b08278be46ee48e618b"
     },
-    "static": "2c6ff225b196127ecb1cccf3e2d34f36",
-    "ui_texts": "1c32f6117726676d9f88992e3bdcf862"
+    "static": "7aeb0d047c01e3a5da4dcbaecafcb509",
+    "ui_texts": "873e11f76ef1af99df51f18758b07b11"
 }
